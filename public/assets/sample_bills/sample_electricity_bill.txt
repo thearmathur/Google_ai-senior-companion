@@ -1,0 +1,34 @@
+==================================================================
+              BSES RAJDHANI POWER LIMITED (BRPL)
+               ELECTRICITY CONSUMPTION INVOICE
+==================================================================
+Consumer Name  : MR. ANAND SHARMA
+CA Number      : 100458921
+Bill Number    : BRPL/2026/09/889214
+Bill Date      : 10-Sep-2026
+Billing Period : 08-Aug-2026 to 08-Sep-2026
+Tariff Category: Domestic Lighting (DL)
+Connected Load : 3.00 kW
+
+METER READING DETAILS:
+Previous Reading : 14,210 kWh
+Current Reading  : 14,550 kWh
+Units Consumed   : 340 Units
+
+ENERGY CHARGES BREAKUP:
+Energy Charges (340 Units) : ₹ 2,150.00
+Fixed Monthly Charges      : ₹   180.00
+Electricity Duty (5%)      : ₹   120.00
+------------------------------------------------------------------
+TOTAL CURRENT CHARGES      : ₹ 2,450.00
+Arrears / Previous Dues    : ₹     0.00
+------------------------------------------------------------------
+NET AMOUNT PAYABLE         : ₹ 2,450.00
+DUE DATE                   : 25-Sep-2026
+Amount After Due Date      : ₹ 2,550.00 (Late surcharge ₹100)
+------------------------------------------------------------------
+PAYMENT MODES:
+1. Online via BRPL Official Mobile App or bsesdelhi.com
+2. Authorized Bill Desk / Bank Netbanking
+NOTE: Never pay cash to any unverified representative.
+==================================================================

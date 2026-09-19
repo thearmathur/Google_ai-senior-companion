@@ -1,0 +1,6 @@
+{
+  "name": "AI Senior Companion",
+  "description": "Your simple, safe and trusted digital companion for seniors — featuring Scam Shield, Document Explainer, Step-by-Step Task Guides, Reminders, and Daily Briefing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
